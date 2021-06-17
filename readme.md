@@ -4,7 +4,7 @@ Backend RESTful API built with NodeJS, ExpressJS, MongoDB and Mongoose. Besides 
 
 ## Usages
 
-Rename "config/renamethis.env" to "config.config.env" and update your credentials in there.
+Rename "config/renamethis.env" to "config/config.env" and update your credentials in there.
 
 ## Install Dependencies
 
